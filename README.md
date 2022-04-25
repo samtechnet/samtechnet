@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samtechnet
-- 👀 I’m interested in learning to code in python 
-- 🌱 I’m currently learning CS50's Introduction to Computer Science on edx
+1. - 👀 I’m interested in learning to code in Nodejs & python 
+- 🌱 I’m currently learning Nodejs as a backend developer at stutern
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me (samlaja1292@gmail.com)
 
