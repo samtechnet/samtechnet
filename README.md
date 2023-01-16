@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samtechnet
 1. - 👀 I’m interested in learning to code in Nodejs , python & Java
 - i'm a Nodejs developer using TypeScript
-- 🌱 I’m currently learning Java as a backend developer at Ineuron.io
+- 🌱 I’m currently learning Java as a backend developer at ineuron.io
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me (samlaja1292@gmail.com)
 
